@@ -1,0 +1,5 @@
+
+12월 27, 2023 02:21:45.783 NEW SESSION
+12월 27, 2023 02:21:45.783 [21760:21460:1227/022145.778:ERROR:CONSOLE(0)] "ReferenceError: dragEvent is not defined", source:  (0)
+12월 27, 2023 03:14:06.532 [21760:21460:1227/031406.531:ERROR:CONSOLE(0)] "ReferenceError: dragEvent is not defined", source:  (0)
+12월 27, 2023 03:24:18.355 [21760:21460:1227/032418.354:ERROR:CONSOLE(0)] "ReferenceError: dragEvent is not defined", source:  (0)
